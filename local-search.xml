@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>ArcLight 注册流程</title>
+    <link href="/2020/0004/"/>
+    <url>/2020/0004/</url>
+    
+    <content type="html"><![CDATA[<h2 id="账号的获取"><a href="#账号的获取" class="headerlink" title="账号的获取"></a>账号的获取</h2><p>钱包和账号是一体的，钱包使用的是 Arweave 提供的 JWK 钱包密钥文件，可以在这里查看教程：<a href="https://update.arcucy.io/2020/0001/">https://update.arcucy.io/2020/0001/</a><br>在教程网站中也可以直接获得钱包文件。</p><h2 id="在获得-JWK-文件之后"><a href="#在获得-JWK-文件之后" class="headerlink" title="在获得 JWK 文件之后"></a>在获得 JWK 文件之后</h2><p>如果需要上传信息，包括个人信息，或是作品，都需要 AR 加密代币。<br>代币可以联系 <a href="mailto:&#x6e;&#x65;&#107;&#111;&#x40;&#x61;&#121;&#x61;&#x6b;&#97;&#46;&#x6d;&#x6f;&#101;">&#x6e;&#x65;&#107;&#111;&#x40;&#x61;&#121;&#x61;&#x6b;&#97;&#46;&#x6d;&#x6f;&#101;</a> 沟通获得，将会尽可能帮助大家。</p><h2 id="上传内容前"><a href="#上传内容前" class="headerlink" title="上传内容前"></a>上传内容前</h2><p>另外在上传作品前必须提前设定头像和用户名。<br>因为基于区块链，存储数据都需要用户提供一定的奖励，也就是「需要付费才能存储」，但是这个费率都不会很高，如果没有 AR，可以联系 <a href="mailto:&#110;&#101;&#107;&#111;&#x40;&#97;&#x79;&#x61;&#107;&#97;&#x2e;&#x6d;&#111;&#101;">&#110;&#101;&#107;&#111;&#x40;&#97;&#x79;&#x61;&#107;&#97;&#x2e;&#x6d;&#111;&#101;</a> 沟通获得。</p><p>头像设定的网站（去中心化 Web App）：<a href="https://arweave.net/d9SXf_N32hAm3cygt1btmPC-7Dg460VhQEtW8I-cfvU">https://arweave.net/d9SXf_N32hAm3cygt1btmPC-7Dg460VhQEtW8I-cfvU</a><br>用户名设定的网站（去中心化 Web App）：<a href="https://mtfvznw2pwxykoicvxpoe7ao5rp4nhaueueux2bbe4klxankdhra.arweave.net/fGUdNmXFmflBMGI2f9vD7KzsrAc1s1USQgQLgAVT0W0">https://mtfvznw2pwxykoicvxpoe7ao5rp4nhaueueux2bbe4klxankdhra.arweave.net/fGUdNmXFmflBMGI2f9vD7KzsrAc1s1USQgQLgAVT0W0</a></p><p>在未来，我们将会提供对 Gavatar 的支持，以方便大家的使用。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>ArcLight 与 LGBTQ 🏳️‍🌈 携手并进</title>
     <link href="/2020/0003/"/>
     <url>/2020/0003/</url>
